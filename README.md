@@ -17,4 +17,4 @@ https://archive.ics.uci.edu/ml/datasets/A+study+of++Asian+Religious+and+Biblical
 ### Link do projektu:
 https://github.com/MarcelinaKurek/2021L-WUM/tree/main/Projekty/Projekt2/Grupa%202/Kaczmarek_Ka%C5%82uska_Kurek
 
-* Szczegółowe opisy projektów są dostępne w plikach `raport.pdf`
+\* Szczegółowe opisy projektów są dostępne w plikach `raport.pdf`
